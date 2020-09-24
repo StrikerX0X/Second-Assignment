@@ -1,0 +1,25 @@
+
+caption{
+    background-color:brown;
+    color: white;
+}
+.odd{
+    text-align: center;
+    color: black;
+    background-color: rgb(11, 204, 252);
+    text-size-adjust: 5;
+}
+.even{
+    text-align: center;
+    color:black;
+    background-color: rgb(236, 17, 83);
+    text-size-adjust: 5;
+    
+}
+.even:hover,.odd:hover {
+    background-color:brown;
+}
+tfoot{
+    text-align: center;
+
+}
